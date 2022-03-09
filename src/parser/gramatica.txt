@@ -1,0 +1,5 @@
+<expr>  ::= <expr0> "+" <expr> | <expr0> "-" <expr> | <expr0>
+<expr0> ::= <expr1> "*" <expr0> | <expr1> "/" <expr0> | <expr1>
+<expr1> ::= <expr2> "^" <expr1> | <expr2>
+<expr2> ::= "+" <atom> | "-" <atom> | <atom>
+<atom>  ::= "(" <expr> ")" | <NUMBER>
