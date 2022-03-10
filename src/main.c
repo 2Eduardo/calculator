@@ -9,7 +9,8 @@
  * 
  */
 #include <gtk/gtk.h>
-#include "calculator.h"
+
+#include "app.h"
 
 /*
   1 - Get a string from view module;
