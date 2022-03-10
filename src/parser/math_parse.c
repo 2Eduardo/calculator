@@ -13,6 +13,7 @@
 #include "math_parse.h"
 
 #include <stdlib.h>
+#include <string.h> /* for memcpy() */
 #include <math.h> /* for NAN */
 
 #include "math_operations.h"
