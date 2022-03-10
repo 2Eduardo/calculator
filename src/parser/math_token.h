@@ -1,3 +1,17 @@
+/**
+ * @file math_token.h
+ * @author Eduardo Luis
+ *
+ * @brief This header has the declarations for a math token, that is a unit
+ * from the math language point of view. A math token can be a number, an infix
+ * which is an operator in the middle of two expressions or a parentheses in
+ * which the expression inside it takes precedence over what is outside it.
+ * @version 0.1
+ * @date 2022-03-09
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #ifndef MATH_TOKEN_H
 #define MATH_TOKEN_H
 

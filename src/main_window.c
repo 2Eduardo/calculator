@@ -1,4 +1,16 @@
-/* Implementation of CalculatorMainWindow. */
+/**
+ * @file main_window.c
+ * @author Eduardo Luis
+ *
+ * @brief Implementation of CalculatorMainWindow, the main user interface
+ * class.
+ * 
+ * @version 0.1
+ * @date 2022-03-09
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #include "main_window.h"
 
 #include <gtk/gtk.h>

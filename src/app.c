@@ -1,4 +1,15 @@
-/* Implementation of CalculatorApp. */
+/**
+ * @file app.c
+ * @author Eduardo Luis
+ *
+ * @brief CalculatorApp implementation. System integration app.
+ *
+ * @version 0.1
+ * @date 2022-03-09
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #include "app.h"
 
 #include <gtk/gtk.h>

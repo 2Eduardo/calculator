@@ -1,4 +1,16 @@
-/* Replacement for GtkApplication. */
+/**
+ * @file app.h
+ * @author Eduardo Luis (you@domain.com)
+ *
+ * @brief CalculatorApp definition. The application class extends the
+ * GtkApplication for provide system integration.
+ *
+ * @version 0.1
+ * @date 2022-03-09
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
 #ifndef CALCULATOR_APP_H
 #define CALCULATOR_APP_H
 
